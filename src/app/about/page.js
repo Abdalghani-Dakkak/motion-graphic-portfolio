@@ -64,7 +64,7 @@ export default function About() {
 
             <InfoSection title="Recognition">
               <p>3x Primetime Emmy Award Nominee</p>
-              <p>Young Guns '18 — The One Club</p>
+              <p>Young Guns &apos;18 — The One Club</p>
               <p>Communication Arts — Award of Excellence</p>
               <p>Cannes Lions — Design Silver Lion</p>
               <p>SXSW Film Festival — Excellence in Title Design</p>
